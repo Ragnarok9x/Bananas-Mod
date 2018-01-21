@@ -6,7 +6,7 @@
 		<label>banana peel</label>
 		<thingClass>Building_TrapRearmable</thingClass>
 		<graphicData>
-			<texPath>Things/Item/Resource/PlantFoodRaw/bananapeel</texPath>
+			<texPath>Things/Building/Security/BananaTrap</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<damageData>
 				<rect>(0,0,1,0.15)</rect>
