@@ -50,5 +50,8 @@
 		<staticSunShadowHeight>0.5</staticSunShadowHeight>
 		<designationHotKey>Misc3</designationHotKey>
 		<constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+				<researchPrerequisites>
+			<li>BananaTech2</li>
+		</researchPrerequisites>
 	</ThingDef>
 </Defs>
