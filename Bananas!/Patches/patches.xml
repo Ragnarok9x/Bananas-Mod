@@ -8,6 +8,13 @@
 	</Operation> 
 
 	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="TableMachining"]/recipes</xpath>
+		<value>
+			<li>MakeBananaFiber</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
 		<xpath>/Defs/ThingDef[defName="ElectricStove"]/recipes</xpath>
 		<value>
 			<li>CookMealBanana</li>
@@ -20,13 +27,4 @@
 			<li>CookMealBanana</li>
 		</value>
 	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>/Defs/ThingDef[defName="TableMachining"]/recipes</xpath>
-		<value>
-			<li>MakeBananaFiber</li>
-		</value>
-	</Operation>
-
-
 </Patch>
