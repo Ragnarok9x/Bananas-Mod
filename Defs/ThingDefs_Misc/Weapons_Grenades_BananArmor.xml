@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="ArmorMakeableBase">
+		<defName>Apparel_BananArmor</defName>
+		<label>powered BananArmor</label>
+		<description>Beth has really gone too far this time. This is a suit of power armor styled after bananas.</description>
+		<techLevel>Spacer</techLevel>
+		<recipeMaker>
+			<unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef>
+			<researchPrerequisite>BananaTech4</researchPrerequisite>
+		</recipeMaker>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparel/PowerArmor/PowerBananArmor</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<WorkToMake>170000</WorkToMake>
+			<MaxHitPoints>300</MaxHitPoints>
+			<Mass>10</Mass>
+			<ArmorRating_Blunt>0.35</ArmorRating_Blunt>
+			<ArmorRating_Sharp>0.65</ArmorRating_Sharp>
+			<ArmorRating_Heat>0.30</ArmorRating_Heat>
+			<Insulation_Cold>-45</Insulation_Cold>
+		</statBases>
+		<equippedStatOffsets>
+			<MoveSpeed>-0.7</MoveSpeed>
+			<WorkSpeedGlobal>-0.10</WorkSpeedGlobal>
+		</equippedStatOffsets>
+		<thingCategories>
+			<li>Apparel</li>
+		</thingCategories>
+		<costList>
+			<Component>20</Component>
+			<Bananas>635</Bananas>
+		</costList>
+		<generateCommonality>2</generateCommonality>
+		<apparel>
+			<bodyPartGroups>
+				<li>Torso</li>
+				<li>Neck</li>
+				<li>Shoulders</li>
+				<li>Arms</li>
+				<li>Legs</li>
+			</bodyPartGroups>
+			<wornGraphicPath>Things/Pawn/Humanlike/Apparel/PowerArmor/PowerBananArmor</wornGraphicPath>
+			<layers>
+				<li>Middle</li>
+				<li>Shell</li>
+			</layers>
+			<tags>
+				<li>Outlander</li>
+				<li>Spacer</li>
+				<li>Military</li>
+			</tags>
+			<defaultOutfitTags>
+				<li>Soldier</li>
+			</defaultOutfitTags>
+		</apparel>
+
+	</ThingDef>
+
+</Defs>

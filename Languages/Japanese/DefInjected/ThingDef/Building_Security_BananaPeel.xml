@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TrapBananaPeel.label>バナナの皮(罠)</TrapBananaPeel.label>
+  <TrapBananaPeel.description>バナナの皮トラップです。私はあなたに何を説明するべきか分かりません。これはどういうことか分かりますよね？これ面白いですか？誰かがこれによって重大なダメージを受ける可能性があります。</TrapBananaPeel.description>
+  <TrapBananaPeel_Blueprint.label>バナナの皮(罠)(blueprint)</TrapBananaPeel_Blueprint.label>
+  <TrapBananaPeel_Frame.label>バナナの皮(罠)(building)</TrapBananaPeel_Frame.label>
+  <TrapBananaPeel_Frame.description>バナナの皮トラップです。私はあなたに何を説明するべきか分かりません。これはどういうことか分かりますよね？これ面白いですか？誰かがこれによって重大なダメージを受ける可能性があります。</TrapBananaPeel_Frame.description>
+
+
+</LanguageData>

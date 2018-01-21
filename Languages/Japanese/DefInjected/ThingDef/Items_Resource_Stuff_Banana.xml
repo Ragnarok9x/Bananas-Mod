@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BananaFiber.label>バナナ繊維</BananaFiber.label>
+  <BananaFiber.description>苦労してバナナの皮から小さな糸を引っ張り出して、織り交ぜて作られた繊維です。それはとても奇妙な輝きを持ち、驚くほど強いです。ベスはよい事に気が付いた！恐らく我々が作った収容所から彼女を出しても良いかもしれない。</BananaFiber.description>
+  <BananaFiber.stuffProps.stuffAdjective>バナナ繊維</BananaFiber.stuffProps.stuffAdjective>
+
+  <BananaPeel.label>バナナの皮</BananaPeel.label>
+  <BananaPeel.description>バナナの皮です。ベスは、あなたがこの皮から非常に有用なものを作ることができると思っているようですが、それは信じがたい話に聞こえます。これってゴミじゃない？</BananaPeel.description>
+  <BananaPeel.stuffProps.stuffAdjective>バナナの皮</BananaPeel.stuffProps.stuffAdjective>
+
+
+</LanguageData>

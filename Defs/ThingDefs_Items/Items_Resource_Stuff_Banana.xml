@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="ResourceBase">
+		<defName>BananaFiber</defName>
+		<label>banana fiber</label>
+		<description>A fiber created from painstakingly pulling out small strands from banana peels, and then interweaving. It has a strange glow to it, and it's surprisingly strong. Beth WAS onto something! Maybe we should get her out of that asylum we made.</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/bananfiber</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MaxHitPoints>160</MaxHitPoints>
+			<MarketValue>20</MarketValue>
+			<Mass>0.356</Mass>
+			<Flammability>0.5</Flammability>
+			<DeteriorationRate>1</DeteriorationRate>
+		</statBases>
+		<stuffProps>
+			<categories>
+				<li>Fabric</li>
+			</categories>
+			<color>(255,255,211)</color>
+			<commonality>1.4</commonality>
+		</stuffProps>
+		<thingCategories>
+			<li>Textiles</li>
+		</thingCategories>
+	</ThingDef>
+
+	<ThingDef ParentName="ResourceBase">
+		<defName>BananaPeel</defName>
+		<label>banana peel</label>
+		<description>A banana peel. Beth seems to think that you can make something extremely useful out of this, but that sounds farfetched. Isn't this just trash?</description>
+		<graphicData>
+			<texPath>Things/Item/Resource/PlantFoodRaw/bananapeel</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Standard_Drop</soundInteract>
+		<soundDrop>Standard_Drop</soundDrop>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+			<li>PlantMatter</li>
+		</thingCategories>
+		<deepCommonality>4</deepCommonality>
+		<stuffProps>
+			<categories>
+				<li>BananaPeel</li>
+			</categories>
+		</stuffProps>
+	</ThingDef>
+
+</Defs>

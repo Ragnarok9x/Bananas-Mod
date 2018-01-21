@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Weapon_GrenadeBanana.label>バナネード(手榴弾)</Weapon_GrenadeBanana.label>
+  <Weapon_GrenadeBanana.description>奇妙な、爆発するバナナです。信じられませんが、なぜ私たちがこれを作ったのか本当に分かりません。これを作ったのはあなたでしたか、ベス？あなたは馬鹿ですか、もし誰かがこれを食べようとしたら、確実に死ぬでしょう？明日説教ですよ、ベス。</Weapon_GrenadeBanana.description>
+  <Weapon_GrenadeBanana.verbs.0.label>バナネード(手榴弾)を投げる</Weapon_GrenadeBanana.verbs.0.label>
+
+  <Proj_Bananade.label>バナネード(手榴弾)</Proj_Bananade.label>
+
+
+</LanguageData>
