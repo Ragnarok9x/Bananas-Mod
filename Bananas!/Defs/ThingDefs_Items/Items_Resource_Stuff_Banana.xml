@@ -6,7 +6,7 @@
 		<label>banana fiber</label>
 		<description>A fiber created from painstakingly pulling out small strands from banana peels, and then interweaving. It has a strange glow to it, and it's surprisingly strong. Beth WAS onto something! Maybe we should get her out of that asylum we made.</description>
 		<graphicData>
-			<texPath>Things/Item/Resource/bananfiber</texPath>
+			<texPath>Things/Item/Unfinished/UnfinishedBananade</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<statBases>
