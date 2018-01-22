@@ -5,7 +5,7 @@
 		<label>bananade</label>
 		<description>A strange, exploding banana. I mean, like, I don't really understand why we made this. Was it you who made this, Beth? You idiot, what if someone tried to eat this and then died? You're getting the pillory tomorrow, Beth.</description>
 		<graphicData>
-			<texPath>Things/Item/Unfinished/UnfinishedBananade</texPath>
+			<texPath>Things/Item/Unfinished/UnfinishedBananafiber</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<soundInteract>InteractGrenade</soundInteract>
