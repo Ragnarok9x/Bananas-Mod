@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BananaPhone.label>バナナフォン</BananaPhone.label>
+  <BananaPhone.description>遠方のトレーダーだけでなく、交易や外交のために他の派閥勢力と無線連絡することも可能です。</BananaPhone.description>
+  <BananaPhone_Blueprint.label>バナナフォン(設計)</BananaPhone_Blueprint.label>
+  <BananaPhone_Frame.label>バナナフォン(施工)</BananaPhone_Frame.label>
+  <BananaPhone_Frame.description>遠方のトレーダーだけでなく、交易や外交のために他の派閥勢力と無線連絡することも可能です。</BananaPhone_Frame.description>
+
+
+</LanguageData>
