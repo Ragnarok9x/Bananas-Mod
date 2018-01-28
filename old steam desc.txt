@@ -1,0 +1,65 @@
+[h1]Bananas! (And Banana Accessories)[/h1]
+
+[img]https://i.imgur.com/KPfdmCh.png[/img]
+
+[url=https://ludeon.com/forums/index.php?topic=38097.0] Link to the Ludeon Forums Post [/url]
+
+[h1]Description[/h1]
+This mod adds several items, starring a new, growable crop, the Banana Tree! (side effects include bananas.)
+
+The Banana Tree gives you bananas! 
+
+[img]https://i.imgur.com/nkDiQlW.jpg[/img]
+
+[h1]This mod includes[/h1]
+- Banana Tree (Plantable in Growing Zone)
+- Bananas (Harvested from Banana Trees)
+- Bananades (Banana Grenades, created at the machining table)
+- Banana Meals! (Made at a stove out of bananas.)
+- Banana Peels! (New! A byproduct of creating items with bananas!)
+- Banana Peel Traps! (New! Found under the security tab, and made with 1 banana peel.)
+
+[h1]Bananades[/h1]
+You've heard somewhere that you could make these bananas into something a bit more... lethal.
+Combining 500 bananas and 1 frag grenade weapon at a [b]machining table[/b] creates the Bananade™! (This isn't actually trademarked, please don't sue me.)
+
+[h1]Banana Meals[/h1]
+[img]https://i.imgur.com/nUJ3zY8.png[/img]
+Since it would obviously it would be [b]heresy[/b] to make a banana meal without bananas, you can't.
+
+Raw bananas are edible, and I'm planning on expanding this mod to create a whole Bananaverse™ of mods! (This isn't trademarked either, please [b] DO NOT [/b] sue me.)
+
+[h1]Banana Oatmeal[/h1]
+If you'd like a cool, new growable and harvestable crop, download the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1262252469]Oats![/url] mod that I made. While you're at it, why not download the add-on mod for both the Bananas! and the Oats! mod that lets you make [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1262260470]Banana Oatmeal?[/url]
+
+[h1]Vegetable Garden Compatibility Patch[/h1]
+If you'd like to use both this mod and [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1185265132]Vegetable Garden[/url] by dismarzero, check out the [url=http://steamcommunity.com/sharedfiles/filedetails/?id=1262857249]compatibility patch[/url] that Chrscool8 made!
+
+[h1]Supported Languages![/h1]
+English
+Japanese (Credit to Proxyer! Thanks!)
+
+[h1]Feedback[/h1]
+Please give me suggestions for other banana related mods or additions that I can make!
+If you have any issues, please notify me in the comments! Thank you. ♥
+
+[img]https://i.imgur.com/Ylq7tL6.png[/img]
+
+
+
+[h1] Links to Chrscool8's mods (He helped me make this!) [/h1]
+
+Do you want to have only your chickens lay eggs at a faster speed?
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1238006301]Try 'Fast Chicken Eggs'[/url]
+
+Do you want your chickens to lay WAY TOO MANY EGGS?
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1238006894]Try 'Extreme Chicken Eggs'[/url]
+
+Do you want to double the egg rate for all animals?
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1238867220]Try 'Fast Eggs'[/url]
+
+Do you want your animals to produce wool faster?
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1253546621]Try 'Fast Wool'[/url]
+
+Do you want to boost the size of the moisture pump's radius?
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1257232649]Try 'Ultra Moisture Pump'[/url]
