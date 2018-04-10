@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Weapon_GrenadeBanana.label>Handbanate</Weapon_GrenadeBanana.label>
+  <Weapon_GrenadeBanana.description>Eine seltsame explodierene Banane. Ich also, .. ähm.. weiß nicht wieso wir die gemacht haben. Warst du das Beth? Bist du blöd, was ist wenn jemand aus Versehen versucht sie zu essen und stirbt? Dafür kommst du morgen an den Pranger, Beth!</Weapon_GrenadeBanana.description>
+  <Weapon_GrenadeBanana.verbs.0.label>wirf Handbanate</Weapon_GrenadeBanana.verbs.0.label>
+
+  <Proj_Bananade.label>Handbanate</Proj_Bananade.label>
+
+
+</LanguageData>

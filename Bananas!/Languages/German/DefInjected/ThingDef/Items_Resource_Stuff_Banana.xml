@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BananaFiber.label>Bananenfaser</BananaFiber.label>
+  <BananaFiber.description>Eine penibel, aus Bananenschalen, herausgezogene Faser, welche dann verwebt wurde. Es leuchtet seltsam und ist überraschend stark. Beth hatte also doch was geplant! Vielleicht sollten wir sie aus der Irrenanstalt herausholen, die wir für sie gemacht haben..</BananaFiber.description>
+  <BananaFiber.stuffProps.stuffAdjective>Bananenfaser</BananaFiber.stuffProps.stuffAdjective>
+
+  <BananaPeel.label>Bananenschale</BananaPeel.label>
+  <BananaPeel.description>Eine Bananenschale. Beth scheint zu glauben, dass man etwas extrem nützliches daraus herstellen könnte, aber das hört sich doch sehr weit hergeholt an. Ist das nicht nur Abfall?</BananaPeel.description>
+  <BananaPeel.stuffProps.stuffAdjective>Bananenschale</BananaPeel.stuffProps.stuffAdjective>
+
+
+</LanguageData>
