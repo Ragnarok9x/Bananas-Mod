@@ -4,7 +4,7 @@
 	<RecipeDef Name="CookBananaMeal" ParentName="CookMealBase">
 		<defName>CookMealBanana</defName>
 		<label>cook banana meal</label>
-		<description>Cooks a bizarre platter of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of who would cook this... </description>
+		<description>Cooks a bizarre platter of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of who would cook this...</description>
 		<jobString>Cooking banana meal.</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<requiredGiverWorkType>Cooking</requiredGiverWorkType>

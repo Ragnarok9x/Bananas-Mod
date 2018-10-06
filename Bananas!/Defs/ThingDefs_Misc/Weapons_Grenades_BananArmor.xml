@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef ParentName="ArmorMakeableBase">
+	<ThingDef ParentName="ArmorMachineableBase">
 		<defName>Apparel_BananArmor</defName>
 		<label>powered BananArmor</label>
 		<description>Beth has really gone too far this time. This is a suit of power armor styled after bananas.</description>
@@ -31,7 +31,7 @@
 			<li>Apparel</li>
 		</thingCategories>
 		<costList>
-			<Component>20</Component>
+			<ComponentIndustrial>20</ComponentIndustrial>
 			<Bananas>635</Bananas>
 		</costList>
 		<generateCommonality>2</generateCommonality>

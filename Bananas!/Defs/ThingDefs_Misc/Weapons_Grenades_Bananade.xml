@@ -8,14 +8,14 @@
 			<texPath>Things/Item/Unfinished/UnfinishedBananade</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
-		<soundInteract>InteractGrenade</soundInteract>
+		<soundInteract>Interact_Grenade</soundInteract>
 		<techLevel>Industrial</techLevel>
 		<statBases>
 			<Beauty>5</Beauty>	
 			<MarketValue>1235</MarketValue>
 			<Mass>1</Mass>
 			<RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
-      <Weapon_Bulk>0.2</Weapon_Bulk>
+     
 		</statBases>
 		<weaponTags>
 			<li>GrenadeDestructive</li>

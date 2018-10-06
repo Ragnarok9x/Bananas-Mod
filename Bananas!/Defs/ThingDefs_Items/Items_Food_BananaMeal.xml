@@ -12,10 +12,11 @@
     <statBases>
       <MarketValue>12</MarketValue>
       <WorkToMake>375</WorkToMake>
+      <Nutrition>1.0</Nutrition>
     </statBases>
     <ingestible>
       <preferability>MealSimple</preferability>
-			<nutrition>1.0</nutrition>
+			
 			<ingestEffect>EatVegetarian</ingestEffect>
       <ingestSound>Meal_Eat</ingestSound>
     </ingestible>
