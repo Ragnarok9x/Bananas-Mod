@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef Name="CookBananaMeal" ParentName="CookMealBase">
+		<defName>CookMealBanana</defName>
+		<label>cook banana meal</label>
+		<description>Cooks a bizarre platter of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of who would cook this...</description>
+		<jobString>Cooking banana meal.</jobString>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>false</allowMixingIngredients>
+		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Bananas</li>
+					</thingDefs>
+				</filter>
+				<count>2</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Bananas</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<MealBanana>1</MealBanana>
+			<BananaPeel>40</BananaPeel>
+		</products>
+		<workSkill>Cooking</workSkill>
+		<researchPrerequisite>BananaTech1</researchPrerequisite>
+	</RecipeDef>
+
+</Defs>

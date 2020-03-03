@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="TableMachining"]/recipes</xpath>
+		<value>
+			<li>MakeBananade</li>
+		</value>
+	</Operation> 
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="TableMachining"]/recipes</xpath>
+		<value>
+			<li>MakeBananaFiber</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="ElectricStove"]/recipes</xpath>
+		<value>
+			<li>CookMealBanana</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/ThingDef[defName="FueledStove"]/recipes</xpath>
+		<value>
+			<li>CookMealBanana</li>
+		</value>
+	</Operation>
+</Patch>

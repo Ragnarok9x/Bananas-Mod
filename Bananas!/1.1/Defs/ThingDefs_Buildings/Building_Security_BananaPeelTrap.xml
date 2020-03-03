@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>TrapBananaPeel</defName>
+		<label>banana peel</label>
+		<thingClass>Building_TrapDamager</thingClass>
+		<graphicData>
+			<texPath>Things/Building/Security/BananaTrap</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<damageData>
+				<rect>(0,0,1,0.15)</rect>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<drawerType>RealtimeOnly</drawerType>
+		<rotatable>false</rotatable>
+		<tickerType>Normal</tickerType>
+		<stealable>false</stealable>
+		<statBases>
+			<MaxHitPoints>40</MaxHitPoints>
+			<WorkToBuild>20</WorkToBuild>
+			<Beauty>-16</Beauty>
+			<TrapMeleeDamage>10</TrapMeleeDamage>
+			<TrapSpringChance>0.8</TrapSpringChance>
+		</statBases>
+		<description>A banana peel trap. I.. don't know what to say to you. You know how clichéd this is, right? This is funny to you? Someone could get seriously hurt because of this.</description>
+		<stuffCategories>
+			<li>BananaPeel</li>
+		</stuffCategories>
+		<costStuffCount>1</costStuffCount>
+		<designationCategory>Security</designationCategory>
+		<designationHotKey>Misc6</designationHotKey>
+		<building>
+			<isTrap>true</isTrap>
+			<trapDamageCategory>Blunt</trapDamageCategory>
+			<trapUnarmedGraphicData>
+				<texPath>Things/Building/Security/BananaTrap</texPath>
+				<graphicClass>Graphic_Single</graphicClass>
+				<shaderType>Cutout</shaderType>
+			</trapUnarmedGraphicData>
+		</building>
+		<constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+		<researchPrerequisites>
+			<li>BananaTech1</li>
+		</researchPrerequisites>
+	</ThingDef>
+
+</Defs>

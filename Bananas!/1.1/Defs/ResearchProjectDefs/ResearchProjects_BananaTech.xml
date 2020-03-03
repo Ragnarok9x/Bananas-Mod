@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ResearchProjectDef>
+		<defName>BananaTech1</defName>
+		<label>Banana Tech - Basic</label>
+		<description>The more time you spend with Beth, the more you start to understand her madness.</description>
+		<baseCost>200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>3</researchViewX>
+		<researchViewY>.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>BananaTech2</defName>
+		<label>Banana Tech - Intermediate</label>
+		<description>You know, bananas are actually quite useful if you think about it.</description>
+		<baseCost>200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>3</researchViewX>
+		<researchViewY>.5</researchViewY>
+		<prerequisites>
+			<li>BananaTech1</li>
+		</prerequisites>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>BananaTech3</defName>
+		<label>Banana Tech - Advanced</label>
+		<description>Bananas. Bananas. Bananas. Bananas. Bananas. Bananas!</description>
+		<baseCost>200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>3</researchViewX>
+		<researchViewY>.5</researchViewY>
+		<prerequisites>
+			<li>BananaTech2</li>
+		</prerequisites>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>BananaTech4</defName>
+		<label>Banana Tech - Bananas!</label>
+		<description>You were Beth all along.</description>
+		<baseCost>200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<researchViewX>3</researchViewX>
+		<researchViewY>.5</researchViewY>
+		<prerequisites>
+			<li>BananaTech3</li>
+		</prerequisites>
+	</ResearchProjectDef>
+</Defs>
