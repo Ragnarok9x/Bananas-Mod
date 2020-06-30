@@ -1,25 +1,28 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Defs>
-
-  <ThingDef ParentName="MealRottable">
-    <defName>MealBanana</defName>
-    <label>banana meal</label>
-    <description>A bizarre platter of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of whoever cooked this... Probably Beth.</description>
-    <graphicData>
-      <texPath>Things/Item/Meal/Banana</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <statBases>
-      <MarketValue>12</MarketValue>
-      <WorkToMake>375</WorkToMake>
-      <Nutrition>1.0</Nutrition>
-    </statBases>
-    <ingestible>
-      <preferability>MealSimple</preferability>
-			
-			<ingestEffect>EatVegetarian</ingestEffect>
-      <ingestSound>Meal_Eat</ingestSound>
-    </ingestible>
-  </ThingDef>
-  
-  </Defs>
+    <ThingDef ParentName="MealBase">
+        <defName>MealBanana</defName>
+        <label>banana meal</label>
+        <description>A bizarre platter of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of whoever cooked this... Probably Beth.</description>
+        <graphicData>
+            <texPath>Things/Item/Meal/Banana</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <statBases>
+            <MarketValue>12</MarketValue>
+            <WorkToMake>375</WorkToMake>
+            <Nutrition>1.0</Nutrition>
+        </statBases>
+        <ingestible>
+            <preferability>MealSimple</preferability>
+            <ingestEffect>EatVegetarian</ingestEffect>
+            <ingestSound>Meal_Eat</ingestSound>
+        </ingestible>
+        <comps>
+            <li Class="CompProperties_Rottable">
+                <daysToRotStart>30</daysToRotStart>
+                <rotDestroys>true</rotDestroys>
+            </li>
+        </comps>
+    </ThingDef>
+</Defs>

@@ -6,7 +6,7 @@
 		<label>make bananade</label>
 		<description>Make a Bananade.</description>
 		<jobString>Making a bananade!</jobString>
-		<workSpeedStat>SmithingSpeed</workSpeedStat>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
 		<soundWorking>Recipe_Machining</soundWorking>
 		<workAmount>475</workAmount>
