@@ -1,4 +1,4 @@
-Bananas!
+Bananas! [[Steam Workshop]](https://steamcommunity.com/sharedfiles/filedetails/?id=1531439596)
 
 Description
 This mod adds several items, starring a new, growable crop, the Banana Tree! (side effects include bananas.)
@@ -15,13 +15,13 @@ This mod includes
 
 Bananades
 You've heard somewhere that you could make these bananas into something a bit more... lethal.
-Combining 500 bananas and 1 frag grenade weapon at a machining table creates the Bananade™! (This isn't actually trademarked, please don't sue me.)
+Combining 500 bananas and 1 frag grenade weapon at a machining table creates the Bananadeâ„¢! (This isn't actually trademarked, please don't sue me.)
 
 Banana Meals
 
 Since it would obviously it would be heresy to make a banana meal without bananas, you can't.
 
-Raw bananas are edible, and I'm planning on expanding this mod to create a whole Bananaverse™ of mods! (This isn't trademarked either, please DO NOT sue me.)
+Raw bananas are edible, and I'm planning on expanding this mod to create a whole Bananaverseâ„¢ of mods! (This isn't trademarked either, please DO NOT sue me.)
 
 Banana Oatmeal
 If you'd like a cool, new growable and harvestable crop, download the Oats! mod that I made. While you're at it, why not download the add-on mod for both the Bananas! and the Oats! mod that lets you make Banana Oatmeal?
