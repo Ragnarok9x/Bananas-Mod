@@ -35,4 +35,37 @@
 		<researchPrerequisite>BananaTech1</researchPrerequisite>
 	</RecipeDef>
 
+	<RecipeDef Name="CookBananaMealX5" ParentName="CookMealBase">
+		<defName>CookMealBananaX5</defName>
+		<label>cook 5 banana meals</label>
+		<description>Cooks 5 bizarre platters of diced, julienned, and roasted bananas. Big in iron, but you question the sanity of who would cook this...</description>
+		<jobString>Cooking banana meals.</jobString>
+		<workSpeedStat>CookSpeed</workSpeedStat>
+		<requiredGiverWorkType>Cooking</requiredGiverWorkType>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>false</allowMixingIngredients>
+		<ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Bananas</li>
+					</thingDefs>
+				</filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Bananas</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<MealBanana>5</MealBanana>
+			<BananaPeel>200</BananaPeel>
+		</products>
+		<workSkill>Cooking</workSkill>
+		<researchPrerequisite>BananaTech1</researchPrerequisite>
+	</RecipeDef>
 </Defs>

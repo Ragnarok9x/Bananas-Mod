@@ -35,5 +35,40 @@
 		<workSkill>Crafting</workSkill>
 		<researchPrerequisite>BananaTech2</researchPrerequisite>
 	</RecipeDef>
+	
+	<RecipeDef>
+		<defName>MakeBananaFiberX5</defName>
+		<label>make 5 banana fibers</label>
+		<description>Making Bananafibers</description>
+		<jobString>Making bananafibers! Please send help.</jobString>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>2375</workAmount>
+		<unfinishedThingDef>UnfinishedBananafiber</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BananaPeel</li>
+					</thingDefs>
+				</filter>
+				<count>1125</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>BananaPeel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BananaFiber>125</BananaFiber>
+		</products>
+		<skillRequirements>
+			<Crafting>1</Crafting>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+		<researchPrerequisite>BananaTech2</researchPrerequisite>
+	</RecipeDef>
 
 </Defs>
