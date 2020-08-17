@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="BaseWeapon">
+		<defName>Weapon_GrenadeBanana</defName>
+		<label>bananade</label>
+		<description>A strange, exploding banana. I mean, like, I don't really understand why we made this. Was it you who made this, Beth? You idiot, what if someone tried to eat this and then died? You're getting the pillory tomorrow, Beth.</description>
+		<graphicData>
+			<texPath>Things/Item/Unfinished/UnfinishedBananade</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<Beauty>5</Beauty>	
+			<MarketValue>1235</MarketValue>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>2.66</RangedWeapon_Cooldown>
+     
+		</statBases>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<verbs>
+			<li>
+				<label>throw bananade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>18.2</range>
+				<forcedMissRadius>1.3</forcedMissRadius>
+				<warmupTime>0.25</warmupTime>
+				<noiseRadius>100</noiseRadius>
+				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
+				<soundCast>ThrowGrenade</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_Bananade</defaultProjectile>
+			</li>
+		</verbs>
+		<smeltProducts>
+			<Bananas>1</Bananas>
+		</smeltProducts>
+	</ThingDef>
+
+	<ThingDef ParentName="BaseGrenadeProjectile">
+		<defName>Proj_Bananade</defName>
+		<label>bananade</label>
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>Things/Item/Unfinished/UnfinishedBananade</texPath>
+			<onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<explosionRadius >2.5</explosionRadius >
+			<damageDef>Bomb</damageDef>
+			<damageAmountBase>35</damageAmountBase>
+			<explosionDelay>65</explosionDelay>
+		</projectile>
+	</ThingDef>
+</Defs>

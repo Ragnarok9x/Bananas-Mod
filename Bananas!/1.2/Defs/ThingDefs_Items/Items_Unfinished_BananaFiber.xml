@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="UnfinishedBase">
+		<defName>UnfinishedBananafiber</defName>
+		<label>unfinished bananade</label>
+		<graphicData>
+			<texPath>Things/Item/Unfinished/UnfinishedBananafiber</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stuffCategories />
+	</ThingDef>
+
+</Defs>

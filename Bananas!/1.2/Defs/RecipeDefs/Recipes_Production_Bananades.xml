@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef>
+		<defName>MakeBananade</defName>
+		<label>make bananade</label>
+		<description>Make a Bananade.</description>
+		<jobString>Making a bananade!</jobString>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>475</workAmount>
+		<unfinishedThingDef>UnfinishedBananade</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Bananas</li>
+					</thingDefs>
+				</filter>
+				<count>500</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Weapon_GrenadeFrag</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Weapon_GrenadeFrag</li>
+				<li>Bananas</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<Weapon_GrenadeBanana>1</Weapon_GrenadeBanana>
+			<BananaPeel>500</BananaPeel>
+		</products>
+		<skillRequirements>
+			<Crafting>1</Crafting>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+		<researchPrerequisite>BananaTech3</researchPrerequisite>
+	</RecipeDef>
+
+</Defs>

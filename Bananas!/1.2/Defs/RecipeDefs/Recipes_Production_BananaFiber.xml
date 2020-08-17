@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<RecipeDef>
+		<defName>MakeBananaFiber</defName>
+		<label>make banana fiber</label>
+		<description>Making Bananafiber</description>
+		<jobString>Making bananafiber! Please send help.</jobString>
+		<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Machining</soundWorking>
+		<workAmount>475</workAmount>
+		<unfinishedThingDef>UnfinishedBananafiber</unfinishedThingDef>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>BananaPeel</li>
+					</thingDefs>
+				</filter>
+				<count>225</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>BananaPeel</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<BananaFiber>25</BananaFiber>
+		</products>
+		<skillRequirements>
+			<Crafting>1</Crafting>
+		</skillRequirements>
+		<workSkill>Crafting</workSkill>
+		<researchPrerequisite>BananaTech2</researchPrerequisite>
+	</RecipeDef>
+
+</Defs>
